@@ -1,0 +1,107 @@
+#head {
+    color: crimson;
+}
+
+    
+
+body{
+    background-color: #B4B4B8;
+    
+}
+
+
+*:not(#pay){
+    text-align: center;
+    font-weight: 500;
+    letter-spacing: 2px;
+    
+
+}
+
+
+
+
+#a{
+    color: #35374B;
+}
+
+#t {
+    color: #50727B;
+}
+
+#q {
+    background-color: #4285F4;
+    color: white;
+
+}
+
+#q:hover{
+    background-color: white;
+    color: #4285F4;
+}
+
+h1{
+    font-size: 500%;
+    margin-top: 30px;
+    margin-bottom: 5px;
+}
+p{
+    font-size: 200%;
+    margin-top: 0px;
+}
+#r,#e,#w,#q,input{
+    font-size: 200%;
+    border: white solid ;
+  
+   
+}
+input{
+    width: 40%;
+    background-color: #F2EFE5;
+    
+}
+
+#don{
+    margin-bottom: 2px;
+    margin-top: 20px;
+    transform: translateY(-10px);
+}
+#pay{
+    transform: translateY(-10px);
+}
+
+#w{background-color: #ff0000;
+   color: white;
+}
+#w:hover{background-color: white;
+color: #ff0000;}
+
+
+#e{
+    background-color: gray;
+    color: white;
+
+}
+#e:hover{background-color: white;
+color: gray;}
+
+
+#r{ background-color: black;
+    color: white;
+
+}
+#r:hover{background-color: white;
+color: black;}
+#e:active,#r:active,#w:active,#q:active{background-color: rgb(230, 62, 95);
+color: white;}
+
+
+#x,#y,#wiki,#g{
+    border-top-left-radius: 40px;
+    border-bottom-left-radius: 40px;
+}
+
+#q,#w,#e,#r{
+    border-top-right-radius: 40px;
+    border-bottom-right-radius: 40px;
+}
