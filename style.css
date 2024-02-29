@@ -106,6 +106,6 @@ color: white;}
     border-bottom-right-radius: 40px;
 }
 @media (orientation: portrait){
-#q,#w,#e,#r{width:50px; font-size:40px;}
+#q,#w,#e,#r{width:50px; content:Go;}
 input{width: 60%}
 }
