@@ -113,9 +113,6 @@ color: white;}
   input {
     width: 60%;
   }
-  #q::before, #w::before, #e::before, #r::before {
-    content: "Search";
-    display: inline-block;
     
   }
   #q::after, #w::after, #e::after, #r::after {
