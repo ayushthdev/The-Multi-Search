@@ -109,6 +109,7 @@ color: white;}
 @media (orientation: portrait) {
   #q,#w,#e,#r {
     width: 50px;
+display: none;
   }
   input {
     width: 60%;
@@ -118,6 +119,7 @@ color: white;}
   #q::after, #w::after, #e::after, #r::after {
     content: "Go";
     display: inline-block;
+width:50px;
     
   }
 }
