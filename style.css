@@ -108,6 +108,8 @@ color: white;}
 @media (orientation: portrait){
 #q,#w,#e,#r{width:50px; }
 input{width: 60%}
+#q::before, #w::before, #e::before, #r::before{
+        content: "Search";}
 #q::after, #w::after, #e::after, #r::after {
         content: "Go";}
 }
