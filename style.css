@@ -105,3 +105,6 @@ color: white;}
     border-top-right-radius: 40px;
     border-bottom-right-radius: 40px;
 }
+@media (orientation: portrait){
+#q,#w,#e,#r{width:20px}
+}
