@@ -106,5 +106,7 @@ color: white;}
     border-bottom-right-radius: 40px;
 }
 @media (orientation: portrait){
-#q,#w,#e,#r{width:20px}
+#q,#w,#e,#r{width:50px}
+input{width: 100%}
+label{font-size:40px}
 }
