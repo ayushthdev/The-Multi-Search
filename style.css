@@ -9,8 +9,13 @@ body{
     
 }
 
+@font-face {
+    font-family: fantasy;
+    src: local("fantasy"); 
+}
 
 *:not(#pay){
+    font-family:fantasy;
     text-align: center;
     font-weight: 500;
     letter-spacing: 2px;
