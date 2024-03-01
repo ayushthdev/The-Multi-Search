@@ -115,7 +115,6 @@ display: none;
     width: 60%;
   }
     
-  }
   #q::after, #w::after, #e::after, #r::after {
     content: "Go";
     display: inline-block;
