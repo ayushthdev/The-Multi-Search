@@ -113,7 +113,9 @@ color: white;}
 
 @media (orientation: portrait) {
   input {
-    width: 90%; border-radius:40px; }
+    width: 90%; border-radius:40px; 
+  #q,#w,#e,#r{display:none;}
+  }
   
     
   
